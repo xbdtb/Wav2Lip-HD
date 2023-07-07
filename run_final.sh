@@ -1,6 +1,6 @@
-export filename=test
+export filename=mona
 export input_video=input_videos
-export input_audio=input_audios/test.mp3
+export input_audio=input_audios/ai.wav
 export frames_wav2lip=frames_wav2lip
 export frames_hd=frames_hd
 export output_videos_wav2lip=output_videos_wav2lip
